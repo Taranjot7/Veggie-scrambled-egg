@@ -1,0 +1,4 @@
+-2 eggs
+-Green Peppers
+-Tomato
+-onions
